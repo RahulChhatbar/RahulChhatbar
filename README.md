@@ -27,12 +27,12 @@
 
 ## 🏗️ Featured Projects  
 
-📱 **[Mindful Student](#)**: Android app using face and voice analysis to detect stress, offering personalized well-being recommendations.  
-🧠 **[Insight Guard](#)**: ML & Deep Learning-based Suicide Prediction System analyzing text patterns associated with suicidal intent.  
-📄 **[Academic Research Paper Summarizer](#)**: Deploying an open-source LLM on Hugging Face for summarization.  
-🐦 **[Birdcall Identification System](#)**: Achieved **85.83% accuracy** in classifying bird calls with EfficientNet.  
-🌍 **[Disaster Detection System](#)**: Implemented **Faster R-CNN** for object detection in disaster-related images.  
-🧑‍🎓 **[Facial Recognition Attendance System](#)**: Automated classroom attendance tracking using AI.  
+📱 **Mindful Student**: Android app using face and voice analysis to detect stress, offering personalized well-being recommendations.  
+🧠 **[Insight Guard](https://rahulchhatbar.github.io/Suicide_Prediction_Website/)**: ML & Deep Learning-based Suicide Prediction System analyzing text patterns associated with suicidal intent.  
+📄 **Academic Research Paper Summarizer**: Deploying an open-source LLM on Hugging Face for summarization.  
+🐦 **[Birdcall Identification System](https://github.com/RahulChhatbar/Birdcall-Classification-Using-Deep-Learning)**: Achieved **85.83% accuracy** in classifying bird calls with EfficientNet.  
+🌍 **[Disaster Detection System](https://github.com/RahulChhatbar/Disaster-Detection)**: Implemented **Faster R-CNN** for object detection in disaster-related images.  
+🧑‍🎓 **[Classroom Attendance using Facial Recognition (CAFR)](https://github.com/RahulChhatbar/Classroom-Attendance-using-Facial-Recognition-CAFR)**: Automated classroom attendance tracking using AI.  
 
 Check out more of my work on my **[GitHub Repositories](https://github.com/rahulchhatbar)**!  
 
