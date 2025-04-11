@@ -44,15 +44,11 @@ Check out more of my work on my **[GitHub Repositories](https://github.com/rahul
   <img src="https://skillicons.dev/icons?i=python,java,scala,bash,javascript" />
 </p>
 
----
-
 ## 🤖 Machine Learning / Deep Learning  
 
 <p>
   <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv" />
 </p>
-
----
 
 ## 🧠 Databases  
 
@@ -61,15 +57,11 @@ Check out more of my work on my **[GitHub Repositories](https://github.com/rahul
   <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40" />
 </p>
 
----
-
 ## ☁️ Cloud & DevOps  
 
 <p>
   <img src="https://skillicons.dev/icons?i=aws,gcp,azure,docker,kubernetes,linux,git" />
 </p>
-
----
 
 ## 🧩 Frameworks & Libraries  
 
@@ -78,8 +70,6 @@ Check out more of my work on my **[GitHub Repositories](https://github.com/rahul
   <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" height="40" alt="hadoop" />
 </p>
 
----
-
 ## 📊 Data Visualization  
 
 <p>
@@ -87,13 +77,10 @@ Check out more of my work on my **[GitHub Repositories](https://github.com/rahul
   <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" width="40" height="40" alt="grafana" />
 </p>
 
----
-
 ## 🛠️ Tools & Platforms  
 
 <p>
-  <img src="https://skillicons.dev/icons?i=linux,git" />
-  <img src="https://skillicons.dev/icons?i=tailwind" />
+  <img src="https://skillicons.dev/icons?i=linux,git,tailwind" />
 </p>
 
 ---
@@ -101,11 +88,9 @@ Check out more of my work on my **[GitHub Repositories](https://github.com/rahul
 ## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rahulchhatbar&show_icons=true&theme=radical&hide=stars"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=rahulchhatbar&show_icons=true&theme=radical&hide=stars" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahulchhatbar&layout=compact&theme=radical" />
 </p>
-
----
 
 ## ⏳ GitHub Activity  
 
