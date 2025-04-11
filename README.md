@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rahul Chhatbar</h1>
-<h3 align="center">A passionate data enthusiast from India</h3>
+<h3 align="center">A passionate data enthusiast based in Boston, MA.</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Data%20Engineer%20%7C%20ML%20Explorer%20%7C%20Cloud%20Enthusiast;Always%20learning%20something%20new...&center=true&width=500&height=45">
@@ -24,11 +24,65 @@
 
 ---
 
-### 🛠️ Languages & Tools
+### 💻 Programming Languages
 
-<p align="center">
-  <!-- Tech logos from your list -->
-  <img src="https://skillicons.dev/icons?i=python,java,scala,typescript,javascript,react,nodejs,angular,html,css,tailwind,express,mongodb,mysql,postgresql,sqlite,oracle,git,docker,kubernetes,jenkins,aws,gcp,azure,linux,tensorflow,pytorch,opencv,hadoop,hive,pandas,seaborn,sklearn,d3js,graphql,grafana" />
+<p>
+  <img src="https://skillicons.dev/icons?i=python,java,scala,javascript,typescript" />
+</p>
+
+---
+
+### 🤖 Machine Learning / Deep Learning
+
+<p>
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,pandas,scikit-learn" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Seaborn_logo.svg" height="30" alt="seaborn" />
+</p>
+
+---
+
+### 🧠 Databases
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,sqlite,oracle" />
+  <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40" />
+</p>
+
+---
+
+### ☁️ Cloud & DevOps
+
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,gcp,azure,docker,kubernetes,jenkins,linux,git" />
+</p>
+
+---
+
+### 🧩 Frameworks & Libraries
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,angular" />
+  <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" height="40" alt="hadoop" />
+<!--   <img src="https://www.vectorlogo.zone/logos/apache_hive/apache_hive-ar21.svg" height="40" /> -->
+</p>
+
+---
+
+### 📊 Data Visualization
+
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" width="40" height="40" alt="d3js" />
+  <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" width="40" height="40" alt="grafana" />
+</p>
+
+---
+
+### 🛠️ Tools & Platforms
+
+<p>
+  <img src="https://skillicons.dev/icons?i=linux,git" />
+  <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" width="40" height="40" alt="sqlite" />
+  <img src="https://skillicons.dev/icons?i=tailwind" />
 </p>
 
 ---
@@ -47,11 +101,5 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=rahulchhatbar&theme=radical" />
 </p>
-
----
-
-### 💡 Quote of the Day
-
-> *"Data is the new oil, but refining it is the real art."*
 
 ---
